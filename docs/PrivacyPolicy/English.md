@@ -1,5 +1,10 @@
-### About advertising
-In this application, AdMob (Google Inc.) is used as an advertisement delivery tool, and AdMob may obtain information of the user automatically. Please confirm the information to be acquired, purpose of use, provision to third parties, etc. from the link of the application / privacy policy of the ad distributor below.
+"T.T.Score" is a tabletennis scoreboard iOS app.
 
-### Google Advertising Policy
-[https://policies.google.com/technologies/ads?hl=en](https://policies.google.com/technologies/ads?hl=en)
+
+### Inquiry
+If you would like to report bugs, or request new feature, you could send email to the following email address.
+nakashima2580@icloud.com
+
+### Privacy Policy
+We don't collet any personal data in "T.T.Score".
+
