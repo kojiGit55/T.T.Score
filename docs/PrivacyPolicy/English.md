@@ -6,5 +6,5 @@ If you would like to report bugs, or request new feature, you could send email t
 nakashima2580@icloud.com
 
 ### Privacy Policy
-We don't collet any personal data in "T.T.Score".
+We don't collect any personal data in "T.T.Score".
 
